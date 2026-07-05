@@ -4,7 +4,6 @@ A visual breakdown of how a vehicle’s Electronic Control Unit (ECU) works insi
 
 This infographic simplifies the relationship between sensors, the ECU, the CAN bus network, and actuators into a clear step-by-step flow.
 
----
 
 ## Overview
 
@@ -19,7 +18,6 @@ This diagram shows the basic structure of that loop:
 
 The process runs continuously as a closed feedback loop.
 
----
 
 ## Focus
 
@@ -27,7 +25,6 @@ The goal of this work is clarity.
 
 It’s designed to take a complex system and present it in a way that is easy to understand at a glance, without requiring technical background in automotive engineering.
 
----
 
 ## What this shows
 
@@ -36,7 +33,6 @@ It’s designed to take a complex system and present it in a way that is easy to
 - Data flow between components
 - Feedback loop behavior in embedded systems
 
----
 
 ## Design Approach
 
@@ -45,13 +41,11 @@ It’s designed to take a complex system and present it in a way that is easy to
 - Color separation for each system layer
 - Minimal detail to keep focus on structure, not complexity
 
----
 
 ## Note
 
 This is a conceptual infographic created for educational and communication purposes. It is not a functional simulation or production-level system.
 
----
 
 ## Figma:  
 https://www.figma.com/design/RW98etTlFDlS1YRf8rhPzw/ecu-system?node-id=0-1&t=4ELNdWcr2Dwy6r1q-1
